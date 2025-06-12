@@ -1,1 +1,1 @@
-it's just o save my front-end classes
+it's just to save my front-end classes
